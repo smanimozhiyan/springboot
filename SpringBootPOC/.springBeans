@@ -7,7 +7,7 @@
 	</configSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
-		<config>java:com.perficient.springbootpoc.SpringBootPOC</config>
+		<config>java:com.spring.springbootpoc.SpringBootPOC</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>

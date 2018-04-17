@@ -1,4 +1,4 @@
-package com.perficient.springbootpoc.word;
+package com.spring.springbootpoc.word;
 
 public class Vocabulary {
 	private String word;

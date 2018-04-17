@@ -1,4 +1,4 @@
-package com.perficient.springbootpoc.word;
+package com.spring.springbootpoc.word;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
